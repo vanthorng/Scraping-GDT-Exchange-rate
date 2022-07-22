@@ -1,0 +1,14 @@
+{
+  "name": "gdt-exchange-rate-scraping",
+  "version": "1.0.0",
+  "description": "scraping data from GDT website to get exchange rate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Earpengai",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.5.0"
+  }
+}
